@@ -1,0 +1,2 @@
+# horoscopo
+app de horóscopo
